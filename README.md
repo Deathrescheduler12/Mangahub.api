@@ -1,5 +1,9 @@
 **AN UNOFFICAL MANGAHUB API**
 
-it really looks messy because my ideas were in shambles, So i leave up to the readers to fix my flaws.
+Do you want to download manga chapters in ur device?
 
-*Nice*
+Worry not, this api sole purpose is to provide quality chapters.
+
+**Features**
+-Search for manga and download em.
+I'll try to add more features
